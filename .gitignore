@@ -1,6 +1,6 @@
 # other files and directories
 pyproject.toml
-uv.;ock
+uv.lock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
